@@ -1,11 +1,19 @@
 <?php
 $filenames = array(
-    'logo.png',
-    'draft.png'
+    "logo.png",
+	"occupy_the_future2.png",
+	"newworldorder.png",
+	"stage2.png",
+	"draft.png",
+	"afrika.png",
+	"monopoly.png",
+	"occupy_the_future.png",
+	"stage.png",
+	"waris.png"
 );
 ?>
 <html><body>
-<div style="width:90%">
+<div style="width:95%">
 
 <?php
     foreach( $filenames as $filename ):
