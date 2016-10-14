@@ -10,7 +10,7 @@ $filenames = array(
 <?php
     foreach( $filenames as $filename ):
 ?>
-    <img src="images/<?php echo $filename; ?>"><br><br>
+    <img width="100%" src="images/<?php echo $filename; ?>"><br><br>
 <?php
     endforeach;
 ?>
