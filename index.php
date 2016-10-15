@@ -1,5 +1,6 @@
 <?php
 $filenames = array(
+	"logo.png",
 	"26.png",
 	"25.png",
 	"24.png",
@@ -7,8 +8,7 @@ $filenames = array(
 	"22.png",
 	"21.png",
 	"20.png",
-    "logo.png",
-	"occupy_the_future2.png",
+   "occupy_the_future2.png",
 	"newworldorder.png",
 	"stage2.png",
 	"draft.png",
